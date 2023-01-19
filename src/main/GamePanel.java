@@ -1,5 +1,10 @@
 package main;
 
-public class GamePanel {
+import javax.swing.JPanel;
+
+public class GamePanel extends JPanel {
+
+    // SCREEN SETTINGS
+    final int originalTileSize = 16;
 
 }
